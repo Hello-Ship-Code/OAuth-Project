@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@import "tailwindcss";
+@import "../components/common/button/buttonComponent.module.css";
+@import "../components/common/inputFields/inputComponent.module.css";
+
+body{
+  font-family: Inter, 'sans-serif';
+  background: var(--color-background);
+}
+
+@theme {
+  /* Primary Color */
+  --color-primary: #4B0082;
+
+  /* hover Color */
+  --color-hover: #C5AFD6;
+
+  /* Neutrals */
+  --color-neutral-900: #120020;
+  --color-neutral-600: #61536B;
+  --color-neutral-300: #9785A5;
+
+  /* Background */
+  --color-background: #FFFFFF;
+
+  /* Feedback */
+  --color-error: #E74C3C;
+  --color-positive: #26DE81;
+}

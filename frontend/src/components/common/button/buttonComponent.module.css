@@ -1,0 +1,34 @@
+.baseButtonClass {
+  @apply px-4 py-2 rounded-[5px] text-white font-medium transition-all;
+}
+
+/* Variant Classes */
+.primary-btn {
+  @apply bg-primary text-white;
+}
+
+.icon-btn{
+  @apply border border-neutral-300 text-neutral-300
+}
+
+.secondary-btn {
+  @apply bg-neutral-300 text-white;
+}
+
+.danger-btn {
+  @apply text-white bg-error 
+}
+
+
+/* Size Classes */
+.small {
+  @apply text-sm px-2 py-1;
+}
+
+.medium {
+  @apply text-base px-4 py-2;
+}
+
+.large {
+  @apply text-lg px-6 py-3;
+}
