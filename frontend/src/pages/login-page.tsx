@@ -163,7 +163,7 @@ export const Login = () => {
           {/* Bottom Section */}
           <div className="pt-6 space-y-6">
             <p className="text-center text-neutral-400 text-sm">
-              New to DENAURLEN?{" "}
+              New to OAuth Project?{" "}
               <Link to="/signup" className="text-primary font-medium">
                 Try it Now!
               </Link>
