@@ -26,6 +26,7 @@ export const Login = () => {
       password,
     };
 
+    console.log(baseUrl)
     try {
       const response = await fetch(`${baseUrl}/api/login`, {
         method: "POST",

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Travel",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/travel.svg",
+    "priority": 1,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/travel.png"
+  },
+  {
+    "name": "Beauty",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/beauty.svg",
+    "priority": null,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/beauty.png"
+  },
+  {
+    "name": "Books",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/books.svg",
+    "priority": 4,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/book.png"
+  },
+  {
+    "name": "Games",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/games.svg",
+    "priority": 5,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/games.png"
+  },
+  {
+    "name": "Food & Drinks",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/food.svg",
+    "priority": 6,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/food-and-drinks.png"
+  },
+  {
+    "name": "Cars",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/cars.svg",
+    "priority": 7,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/cars.png"
+  },
+  {
+    "name": "Podcasts",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/podcasts.svg",
+    "priority": 8,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/podcast.png"
+  },
+  {
+    "name": "Celebrities",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/celebrities.svg",
+    "priority": null,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/celebrities.png"
+  },
+  {
+    "name": "Songs",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/songs.svg",
+    "priority": 11,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/songs.png"
+  },
+  {
+    "name": "Interview",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/interview.svg",
+    "priority": null,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/interview.png"
+  },
+  {
+    "name": "Sports",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/sports.svg",
+    "priority": 13,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/sports.png"
+  },
+  {
+    "name": "Technology",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/technology.svg",
+    "priority": 14,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/technology.png"
+  },
+  {
+    "name": "Bikes",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/bikes.svg",
+    "priority": null,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/bikes.png"
+  },
+  {
+    "name": "Web Series",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/webseries.svg",
+    "priority": 16,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/web-series.png"
+  },
+  {
+    "name": "Videos",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/videos.svg",
+    "priority": 17,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/videos.png"
+  },
+  {
+    "name": "Fashion",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/fashion.svg",
+    "priority": 18,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/fashion.png"
+  },
+  {
+    "name": "Memes",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/memes.svg",
+    "priority": 19,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/memes.png"
+  },
+  {
+    "name": "Role Models",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/rolemodels.svg",
+    "priority": 20,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/role-models.png"
+  },
+  {
+    "name": "Apps",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/apps.svg",
+    "priority": 21,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/apps.png"
+  },
+  {
+    "name": "Quotes",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/quotes.svg",
+    "priority": 23,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/quotes.png"
+  },
+  {
+    "name": "Movies",
+    "src": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/movies.svg",
+    "priority": 24,
+    "icon": "https://denaurlenstore.blob.core.windows.net/denaurlenapp/uploads/categories/movies.png"
+  }
+]
